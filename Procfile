@@ -1,1 +1,1 @@
-web:gunicorn script:app --preload
+web:gunicorn D:\python\mysite\Demo\script.py:app
