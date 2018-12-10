@@ -1,1 +1,2 @@
-web:gunicorn D:\python\mysite\Demo\script.py:app
+web:gunicorn script.py
+web:gunicorn script:app
