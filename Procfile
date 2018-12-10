@@ -1,1 +1,1 @@
-web:gunicorn D:\python\mysite\Demo\script.py
+web:gunicorn script:app
